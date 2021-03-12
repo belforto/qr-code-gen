@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "App for QR Code generation from excel file",
+  "main": "qrgenerator.js",
+  "scripts": {
+    "test": "echo \"test command\""
+  },
+  "author": "M. Ognjenovic",
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "^3.6.3",
+    "node-pre-gyp": "^0.15.0",
+    "qrcode": "^1.4.4",
+    "xlsx": "^0.16.5"
+  }
+}
